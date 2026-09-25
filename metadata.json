@@ -1,0 +1,6 @@
+{
+  "name": "Lớp Học Số - Cô Giáo Nguyễn Thị Dung",
+  "description": "Nền tảng lớp học số môn Tin học THPT - Cô giáo Nguyễn Thị Dung: giao nhiệm vụ bằng link và mã QR, thu nộp bài không cần tài khoản, trò chơi củng cố kiến thức và vinh danh học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
